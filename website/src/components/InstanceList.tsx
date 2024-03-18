@@ -38,9 +38,14 @@ export default function InstanceList(): JSX.Element {
     maintainerUrl: 'https://www.pseudoyu.com',
   }, {
     url: 'https://rsshub.friesport.ac.cn',
+    location: '🇨🇳',
+    maintainer: '薯条港研究院',
+    maintainerUrl: 'https://space.bilibili.com/1690617042',
+  }, {
+    url: 'https://rsshub.friesport.ac.cn/us',
     location: '🇺🇸',
-    maintainer: '思维悦动',
-    maintainerUrl: 'https://friesport.ac.cn',
+    maintainer: '薯条港研究院',
+    maintainerUrl: 'https://space.bilibili.com/1690617042',
   }, {
     url: 'https://rsshub.atgw.io',
     location: '🇺🇸',
@@ -56,6 +61,21 @@ export default function InstanceList(): JSX.Element {
     location: '🇳🇱',
     maintainer: 'Kai',
     maintainerUrl: 'https://mubibai.com',
+  }, {
+    url: 'https://rsshub.ktachibana.party',
+    location: '🇺🇸',
+    maintainer: 'KTachibanaM',
+    maintainerUrl: 'https://github.com/KTachibanaM',
+  }, {
+    url: 'https://rsshub.woodland.cafe',
+    location: '🇩🇪',
+    maintainer: 'untitaker',
+    maintainerUrl: 'https://github.com/untitaker',
+  }, {
+    url: 'https://rsshub.aierliz.xyz',
+    location: '🇺🇸',
+    maintainer: '麦当狗',
+    maintainerUrl: 'https://t.me/rsshub/281479',
   }
 ]
 
